@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Microverse School > Rails > #3 Members Only
+# Microverse School > Rails > #5 Members Only
 
 In this project we created a simple user system and secret posts in Ruby on Rails.
 
